@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "352445961563",
+    "firebase_url": "https://myschedule-651f9.firebaseio.com",
+    "project_id": "myschedule-651f9",
+    "storage_bucket": "myschedule-651f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352445961563:android:9dfd4e67967fca92",
+        "android_client_info": {
+          "package_name": "com.mySchedule.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352445961563-1in1q33arb7l8umgk39r9ki160n2341s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SHc4Uafgy6Ll7QaaF6ebLX_xR6RHNw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352445961563:android:d2fe8dc506f38be7",
+        "android_client_info": {
+          "package_name": "com.melnykanton.soccerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352445961563-1in1q33arb7l8umgk39r9ki160n2341s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SHc4Uafgy6Ll7QaaF6ebLX_xR6RHNw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
